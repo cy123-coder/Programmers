@@ -8,3 +8,4 @@ class Solution {
         return answer;
     }
 }
+// return IntStream.rangeClosed(start, end).toArray();
